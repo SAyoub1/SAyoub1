@@ -9,6 +9,7 @@
 <body>
     <section class="business-overview">
         <h1>Business Overview</h1>
+        <img src="Moonlit Mocha logo.png" alt="Moonlit Mocha Logo" style="display: block; margin: 0 auto; width: 150px;">
         
         <div class="about-us">
             <h2>About Us</h2>
@@ -18,8 +19,10 @@
 
         <div class="team">
             <h2>Team</h2>
-            <p><strong>ABC:</strong> Owner and Manager - Brings over 10 years of experience in the hospitality industry and a passion for creating magical experiences.</p>
-            <p><strong>DEF:</strong> Head Barista - Known for her creative coffee concoctions and warm customer service.</p>
+            <p><strong>Clara Mendel:</strong> Owner and Manager - Brings over 10 years of experience in the hospitality industry and a passion for creating magical experiences.</p>
+            <p><strong> Julian Reyes :</strong> Head Barista - Known for her creative coffee concoctions and warm customer service.</p>
+            <p><strong> Maya Thompson & Theo Kim :</strong> Baristas - Maintains a positive and efficient workflow while delivering high-quality beverages with precision.</p>
+
         </div>
 
         <div class="market-analysis">
@@ -38,10 +41,6 @@
     </section>
 </body>
 </html>
-
-
-CSS file
-
 
 body {
     font-family: Arial, sans-serif;
@@ -101,3 +100,4 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
