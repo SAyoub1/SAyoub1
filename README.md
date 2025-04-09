@@ -10,26 +10,21 @@
     <section class="business-overview">
         <h1>Business Overview</h1>
         <img src="Moonlit Mocha logo.png" alt="Moonlit Mocha Logo" style="display: block; margin: 0 auto; width: 150px;">
-        
         <div class="about-us">
             <h2>About Us</h2>
             <p><strong>History:</strong> Founded in 2025, our Cafe was born out of a love for both coffee and storytelling. The cafe quickly gained a loyal customer base due to its unique atmosphere and high-quality offerings.</p>
             <p><strong>Vision:</strong> To be a place where every visit feels like a magical escape, offering customers not just coffee, but an experience.</p>
         </div>
-
         <div class="team">
             <h2>Team</h2>
             <p><strong>Clara Mendel:</strong> Owner and Manager - Brings over 10 years of experience in the hospitality industry and a passion for creating magical experiences.</p>
             <p><strong> Julian Reyes :</strong> Head Barista - Known for her creative coffee concoctions and warm customer service.</p>
             <p><strong> Maya Thompson & Theo Kim :</strong> Baristas - Maintains a positive and efficient workflow while delivering high-quality beverages with precision.</p>
-
         </div>
-
         <div class="market-analysis">
             <h2>Market Analysis</h2>
             <p>Our target market includes young professionals, students, and families who appreciate high-quality coffee and a welcoming environment. We also aim to attract tourists looking for a memorable and delightful cafe experience.</p>
         </div>
-
         <div class="future-plans">
             <h2>Future Plans</h2>
             <ul>
